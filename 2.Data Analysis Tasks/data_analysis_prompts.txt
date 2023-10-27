@@ -1,0 +1,30 @@
+1. Analyze which payment providers are frequently used for these transactions (e.g., MTN). 
+2. Are there multiple providers
+3. Do some have a larger share of transactions?
+
+
+Put all these in one code
+
+
+
+Geographical Analysis:
+1. Explore the distribution of transactions across different meter districts and regions. Perform data analysis
+2.Plot a graph displaying the distribution of transactions across different meter districts and regions.
+
+
+2.Are there areas with significantly more transactions than others?  Perform data analysis
+Plot this in a graph with different colors.
+
+
+
+Meter Category Breakdown:
+1.Break down transactions by meter type (e.g., "PREPAID"). 
+2.Perform an exploratory data analysis:
+	- Which meter type has generated highest amount
+	- Which meter type is used most in a Region
+	- What is the most used payment channel to make the payment of meter type
+	- Display all these values in a table
+3.Plot a histogram plot histogram for each of the scenarios
+4.Save the generated plot in the current working directory.
+
+Are there other meter categories, and what is the distribution of transactions among them?
